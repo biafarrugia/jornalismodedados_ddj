@@ -20,3 +20,5 @@ Al Qaeda is mentioned in the report as “TAQA programme” and detains 36% of a
 
 After Al Qaeda, Syria and Ukraine are on the top of the list with 2,208 and 1,013 occurrences, respectively, followed by Iran (944) and Iraq (761).
 </html>
+
+Acronyms and Programs List: https://webgate.ec.europa.eu/fsd/fsf/public/files/pdfFullSanctionsList/content?token=dG9rZW4tMjAxNw
