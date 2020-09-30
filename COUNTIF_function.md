@@ -2,7 +2,7 @@ Go to https://data.europa.eu/
 <p> Download the dataset “Consolidated list of persons, groups and entities subject to EU financial sanctions” - version 1.1 Full
 <p> Import the dataset into Excel. </p>
 <p> Objective: find out which programme has the most number of people, groups and entities subject to EU financial sanctions.
-Angle story: ranking 
+<p> Angle story: ranking  </p>
 <p> <b> Computational thinking </p> </b>
 <p><i> Decomposition: </i>  The dataset has dozens of columns and rows, but we need just to focus on the main information. 
 <p><i> Abstraction: </i> Considering the objective of this story, the most important column is “O” (Entity_Regulation_Programme).
