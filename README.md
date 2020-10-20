@@ -1,3 +1,3 @@
 # tips
-ddj tips, functions and algorithms
-Excel & R
+<p> ddj tips, functions and algorithms
+<b> Excel & R
