@@ -1,1 +1,1 @@
-<br> Seeing Theory </b>: https://seeing-theory.brown.edu/index.html
+<b> Seeing Theory </b>: https://seeing-theory.brown.edu/index.html
